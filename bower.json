@@ -1,12 +1,12 @@
 {
-  "name": "angular-appinsights",
+  "name": "angular-appinsights-stodolos",
   "main": "angular-appinsights.js",
-  "version": "0.0.3",
-  "homepage": "https://github.com/johnhidey/angular-appinsights",
+  "version": "0.0.4",
+  "homepage": "https://github.com/stodolos/angular-appinsights",
   "authors": [
     "johnhidey <john@hidey.com>"
   ],
-  "description": "A angular module for using Microsoft's Application Insights within a SPA",
+  "description": "A angular module for using Microsoft's Application Insights within a SPA, and support for strict-di mode",
   "keywords": [
     "appinsights",
     "metrics",
